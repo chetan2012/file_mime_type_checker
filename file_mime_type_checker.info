@@ -1,0 +1,4 @@
+name = File Mime Type Checker
+description = "This module allow you to validate your file mime type."
+core = 7.x
+configure = admin/config/media/mime_type
